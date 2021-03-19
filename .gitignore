@@ -1,0 +1,9 @@
+/node_modules/
+/public/build/
+/public/style.css
+
+.env
+
+logs
+npm-debug.log*
+*.log
